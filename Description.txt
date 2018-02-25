@@ -1,0 +1,19 @@
+------------Description-----------------
+
+Part 1.
+ 
+The program scans all the Drives and folders like C:/User/* (Windows) and /home/* (Linux) recursively and
+then identify the top 10 files which have the largest size on the system. (BY DEFAULT).
+
+if want to scan specified directory,
+
+Enter the directory path in which you want to search top 10 largest files.
+
+else just press ENTER to scan DEFAULT PATH [C:/User/* (Windows) and /home/* (Linux)].
+
+Part 2.
+
+The tool sorts the files on Desktop on the basis of file extension and move them in
+separate folders in Documents folder.
+
+Thank you.
